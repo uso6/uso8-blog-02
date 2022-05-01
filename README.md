@@ -4,7 +4,7 @@ uso8-blog-01からH2DBをPostgreSQLへ変更。
 
 # 使い方
 1.Repositryからプロジェクトのコピー  
-```git clone https://github.com/uso6/uso8-blog-01.git```  
+```git clone https://github.com/uso6/uso8-blog-02.git```  
   
 2.Spring Bootアプリの実行(※)  
 ```gradle bootrun```  
